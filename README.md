@@ -23,4 +23,3 @@ A **Bastard** é uma página inicial para um serviço educacional focado em habi
 - **JavaScript**
 - [Font Awesome](https://fontawesome.com/)
 - [Remix Icon](https://remixicon.com/)
-- [Swiper.js](https://swiperjs.com/) 
